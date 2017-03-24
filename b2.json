@@ -3,12 +3,12 @@
     "id": 0,
     "nama": "Mas Dwi",
     "jadwal": "Senin, Selasa, Rabu, Sabtu",
-    "gambar": "400.png"
+    "gambar": "https://spring.io/guides/gs/consuming-rest-angularjs/images/hello.png"
   },
   {
     "id": 1,
     "nama": "Mas Fadli",
     "jadwal": "Kamis, Jumat, Minggu",
-    "gambar": "400.png"
+    "gambar": "KBapp/400.png"
   }
 ]
