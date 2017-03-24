@@ -1,7 +1,12 @@
-{
-"barista":[
-    {"firstName":"John", "lastName":"Doe"}, 
-    {"firstName":"Anna", "lastName":"Smith"},
-    {"firstName":"Peter", "lastName":"Jones"}
+[
+  {
+    "id": 0,
+    "nama": "Mas Dwi",
+    "jadwal": "Senin, Selasa, Rabu, Sabtu"
+  },
+  {
+    "id": 1,
+    "nama": "Mas Fadli",
+    "jadwal": "Kamis, Jumat, Minggu"
+  }
 ]
-}
