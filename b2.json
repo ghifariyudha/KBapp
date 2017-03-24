@@ -9,6 +9,6 @@
     "id": 1,
     "nama": "Mas Fadli",
     "jadwal": "Kamis, Jumat, Minggu",
-    "gambar": "http://s2.postimg.org/fyvh1xwll/400.png"
+    "gambar": "https://spring.io/guides/gs/consuming-rest-angularjs/images/hello.png"
   }
 ]
