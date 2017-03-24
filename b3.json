@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "nama": "Mas Dwi",
+    "jadwal": "Senin, Selasa, Rabu, Sabtu",
+    "gambar": "https://github.com/ghifariyudha/KBapp/raw/master/img/a.png"
+  },
+  {
+    "id": 1,
+    "nama": "Mas Fadli",
+    "jadwal": "Kamis, Jumat, Minggu",
+    "gambar": "img/b.png"
+  }
+]
