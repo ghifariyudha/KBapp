@@ -1,6 +1,7 @@
-  {
-    "id": 0,
-    "nama": "Mas Dwi",
-    "jadwal": "Senin, Selasa, Rabu, Sabtu",
-    "gambar": "img/400.png"
-  }
+{
+"barista":[
+    {"firstName":"John", "lastName":"Doe"}, 
+    {"firstName":"Anna", "lastName":"Smith"},
+    {"firstName":"Peter", "lastName":"Jones"}
+]
+}
