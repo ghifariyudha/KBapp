@@ -51,6 +51,9 @@
 # wustat.windows.com
 127.0.0.1      wustat.windows.com
 
+127.0.0.1 mc.corel.com
+127.0.0.1 apps.corel.com
+
 127.0.0.1 hl2rcv.adobe.com
 127.0.0.1 adobeereg.com
 127.0.0.1 activate.adobe.com
